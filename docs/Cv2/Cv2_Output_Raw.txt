@@ -1,0 +1,249 @@
+=== Epoch 1 ===
+Train:          Batch: 70       Loss: 1.4285    Accuracy: 0.4359
+Validation:             Batch: 15       Loss: 1.2574    Accuracy: 0.5199
+Set learning rate to 0.001. Scheduler: exponential decay.
+
+=== Epoch 2 ===
+Train:          Batch: 70       Loss: 1.0433    Accuracy: 0.6074
+Validation:             Batch: 15       Loss: 0.8896    Accuracy: 0.6847
+Set learning rate to 0.00081873. Scheduler: exponential decay.
+
+=== Epoch 3 ===
+Train:          Batch: 70       Loss: 0.9364    Accuracy: 0.6696
+Validation:             Batch: 15       Loss: 1.0781    Accuracy: 0.5679
+Set learning rate to 0.00067032. Scheduler: exponential decay.
+
+=== Epoch 4 ===
+Train:          Batch: 70       Loss: 0.8065    Accuracy: 0.7237
+Validation:             Batch: 15       Loss: 1.5395    Accuracy: 0.5032
+Set learning rate to 0.00054881. Scheduler: exponential decay.
+
+=== Epoch 5 ===
+Train:          Batch: 70       Loss: 0.7694    Accuracy: 0.7263
+Validation:             Batch: 15       Loss: 0.6868    Accuracy: 0.7894
+Set learning rate to 0.00044933. Scheduler: exponential decay.
+
+=== Epoch 6 ===
+Train:          Batch: 70       Loss: 0.7232    Accuracy: 0.7442
+Validation:             Batch: 15       Loss: 0.7272    Accuracy: 0.7303
+Set learning rate to 0.00036788. Scheduler: exponential decay.
+
+=== Epoch 7 ===
+Train:          Batch: 70       Loss: 0.6455    Accuracy: 0.7823
+Validation:             Batch: 15       Loss: 0.7512    Accuracy: 0.7517
+Set learning rate to 0.00030119. Scheduler: exponential decay.
+
+=== Epoch 8 ===
+Train:          Batch: 70       Loss: 0.6222    Accuracy: 0.7787
+Validation:             Batch: 15       Loss: 0.5515    Accuracy: 0.8122
+Set learning rate to 0.0002466. Scheduler: exponential decay.
+
+=== Epoch 9 ===
+Train:          Batch: 70       Loss: 0.5593    Accuracy: 0.8208
+Validation:             Batch: 15       Loss: 0.5167    Accuracy: 0.8331
+Set learning rate to 0.0002019. Scheduler: exponential decay.
+
+=== Epoch 10 ===
+Train:          Batch: 70       Loss: 0.5493    Accuracy: 0.8162
+Validation:             Batch: 15       Loss: 0.6351    Accuracy: 0.7748
+Set learning rate to 0.0001653. Scheduler: exponential decay.
+
+=== Epoch 11 ===
+Train:          Batch: 70       Loss: 0.5436    Accuracy: 0.8199
+Validation:             Batch: 15       Loss: 0.4625    Accuracy: 0.8495
+Set learning rate to 0.00013534. Scheduler: exponential decay.
+
+=== Epoch 12 ===
+Train:          Batch: 70       Loss: 0.5045    Accuracy: 0.8301
+Validation:             Batch: 15       Loss: 0.4926    Accuracy: 0.8567
+Set learning rate to 0.0001108. Scheduler: exponential decay.
+
+=== Epoch 13 ===
+Train:          Batch: 70       Loss: 0.4834    Accuracy: 0.8399
+Validation:             Batch: 15       Loss: 0.4764    Accuracy: 0.8435
+Set learning rate to 9.072e-05. Scheduler: exponential decay.
+
+=== Epoch 14 ===
+Train:          Batch: 70       Loss: 0.4774    Accuracy: 0.8463
+Validation:             Batch: 15       Loss: 0.4824    Accuracy: 0.8309
+Set learning rate to 7.427e-05. Scheduler: exponential decay.
+
+=== Epoch 15 ===
+Train:          Batch: 70       Loss: 0.4606    Accuracy: 0.8442
+Validation:             Batch: 15       Loss: 0.4434    Accuracy: 0.8665
+Set learning rate to 6.081e-05. Scheduler: exponential decay.
+
+=== Epoch 16 ===
+Train:          Batch: 70       Loss: 0.4581    Accuracy: 0.8457
+Validation:             Batch: 15       Loss: 0.4511    Accuracy: 0.8789
+Set learning rate to 4.979e-05. Scheduler: exponential decay.
+
+=== Epoch 17 ===
+Train:          Batch: 70       Loss: 0.4574    Accuracy: 0.8475
+Validation:             Batch: 15       Loss: 0.4684    Accuracy: 0.8475
+Set learning rate to 4.076e-05. Scheduler: exponential decay.
+
+=== Epoch 18 ===
+Train:          Batch: 70       Loss: 0.4204    Accuracy: 0.8622
+Validation:             Batch: 15       Loss: 0.4337    Accuracy: 0.8767
+Set learning rate to 3.337e-05. Scheduler: exponential decay.
+
+=== Epoch 19 ===
+Train:          Batch: 70       Loss: 0.4427    Accuracy: 0.8601
+Validation:             Batch: 15       Loss: 0.4517    Accuracy: 0.8644
+Set learning rate to 2.732e-05. Scheduler: exponential decay.
+
+=== Epoch 20 ===
+Train:          Batch: 70       Loss: 0.4251    Accuracy: 0.8585
+Validation:             Batch: 15       Loss: 0.4275    Accuracy: 0.8726
+Set learning rate to 2.237e-05. Scheduler: exponential decay.
+
+=== Epoch 21 ===
+Train:          Batch: 70       Loss: 0.4404    Accuracy: 0.8586
+Validation:             Batch: 15       Loss: 0.4323    Accuracy: 0.8706
+Set learning rate to 1.832e-05. Scheduler: exponential decay.
+
+=== Epoch 22 ===
+Train:          Batch: 70       Loss: 0.4179    Accuracy: 0.8601
+Validation:             Batch: 15       Loss: 0.4232    Accuracy: 0.8727
+Set learning rate to 1.5e-05. Scheduler: exponential decay.
+
+=== Epoch 23 ===
+Train:          Batch: 70       Loss: 0.4241    Accuracy: 0.8688
+Validation:             Batch: 15       Loss: 0.4278    Accuracy: 0.8747
+Set learning rate to 1.228e-05. Scheduler: exponential decay.
+
+=== Epoch 24 ===
+Train:          Batch: 70       Loss: 0.4214    Accuracy: 0.8603
+Validation:             Batch: 15       Loss: 0.4278    Accuracy: 0.8664
+Set learning rate to 1.005e-05. Scheduler: exponential decay.
+
+=== Epoch 25 ===
+Train:          Batch: 70       Loss: 0.4201    Accuracy: 0.8634
+Validation:             Batch: 15       Loss: 0.4281    Accuracy: 0.8663
+Set learning rate to 8.23e-06. Scheduler: exponential decay.
+
+=== Epoch 26 ===
+Train:          Batch: 70       Loss: 0.4113    Accuracy: 0.8607
+Validation:             Batch: 15       Loss: 0.4255    Accuracy: 0.8727
+Set learning rate to 6.74e-06. Scheduler: exponential decay.
+
+=== Epoch 27 ===
+Train:          Batch: 70       Loss: 0.4314    Accuracy: 0.8621
+Validation:             Batch: 15       Loss: 0.4327    Accuracy: 0.8728
+Set learning rate to 5.52e-06. Scheduler: exponential decay.
+
+=== Epoch 28 ===
+Train:          Batch: 70       Loss: 0.4131    Accuracy: 0.8708
+Validation:             Batch: 15       Loss: 0.4201    Accuracy: 0.8767
+Set learning rate to 4.52e-06. Scheduler: exponential decay.
+
+=== Epoch 29 ===
+Train:          Batch: 70       Loss: 0.4291    Accuracy: 0.8626
+Validation:             Batch: 15       Loss: 0.4265    Accuracy: 0.8704
+Set learning rate to 3.7e-06. Scheduler: exponential decay.
+
+=== Epoch 30 ===
+Train:          Batch: 70       Loss: 0.4073    Accuracy: 0.8683
+Validation:             Batch: 15       Loss: 0.4308    Accuracy: 0.8748
+Set learning rate to 3.03e-06. Scheduler: exponential decay.
+
+=== Epoch 31 ===
+Train:          Batch: 70       Loss: 0.3942    Accuracy: 0.8731
+Validation:             Batch: 15       Loss: 0.4189    Accuracy: 0.8812
+Set learning rate to 2.48e-06. Scheduler: exponential decay.
+
+=== Epoch 32 ===
+Train:          Batch: 70       Loss: 0.3978    Accuracy: 0.8728
+Validation:             Batch: 15       Loss: 0.4152    Accuracy: 0.8792
+Set learning rate to 2.03e-06. Scheduler: exponential decay.
+
+=== Epoch 33 ===
+Train:          Batch: 70       Loss: 0.4148    Accuracy: 0.8632
+Validation:             Batch: 15       Loss: 0.4207    Accuracy: 0.8747
+Set learning rate to 1.66e-06. Scheduler: exponential decay.
+
+=== Epoch 34 ===
+Train:          Batch: 70       Loss: 0.4243    Accuracy: 0.8626
+Validation:             Batch: 15       Loss: 0.4215    Accuracy: 0.8769
+Set learning rate to 1.36e-06. Scheduler: exponential decay.
+
+=== Epoch 35 ===
+Train:          Batch: 70       Loss: 0.4075    Accuracy: 0.8676
+Validation:             Batch: 15       Loss: 0.4196    Accuracy: 0.8791
+Set learning rate to 1.11e-06. Scheduler: exponential decay.
+
+=== Epoch 36 ===
+Train:          Batch: 70       Loss: 0.4082    Accuracy: 0.8671
+Validation:             Batch: 15       Loss: 0.4189    Accuracy: 0.8767
+Set learning rate to 9.1e-07. Scheduler: exponential decay.
+
+=== Epoch 37 ===
+Train:          Batch: 70       Loss: 0.4101    Accuracy: 0.8734
+Validation:             Batch: 15       Loss: 0.4186    Accuracy: 0.8745
+Set learning rate to 7.5e-07. Scheduler: exponential decay.
+
+=== Epoch 38 ===
+Train:          Batch: 70       Loss: 0.4306    Accuracy: 0.8641
+Validation:             Batch: 15       Loss: 0.4217    Accuracy: 0.8748
+Set learning rate to 6.1e-07. Scheduler: exponential decay.
+
+=== Epoch 39 ===
+Train:          Batch: 70       Loss: 0.3986    Accuracy: 0.8719
+Validation:             Batch: 15       Loss: 0.4189    Accuracy: 0.8749
+Set learning rate to 5e-07. Scheduler: exponential decay.
+
+=== Epoch 40 ===
+Train:          Batch: 70       Loss: 0.4048    Accuracy: 0.8696
+Validation:             Batch: 15       Loss: 0.4271    Accuracy: 0.8747
+Set learning rate to 4.1e-07. Scheduler: exponential decay.
+
+=== Epoch 41 ===
+Train:          Batch: 70       Loss: 0.4181    Accuracy: 0.8632
+Validation:             Batch: 15       Loss: 0.4175    Accuracy: 0.8789
+Set learning rate to 3.4e-07. Scheduler: exponential decay.
+
+=== Epoch 42 ===
+Train:          Batch: 70       Loss: 0.4123    Accuracy: 0.8646
+Validation:             Batch: 15       Loss: 0.4202    Accuracy: 0.8775
+Set learning rate to 2.7e-07. Scheduler: exponential decay.
+
+=== Epoch 43 ===
+Train:          Batch: 70       Loss: 0.4225    Accuracy: 0.8562
+Validation:             Batch: 15       Loss: 0.4222    Accuracy: 0.8747
+Set learning rate to 2.2e-07. Scheduler: exponential decay.
+
+=== Epoch 44 ===
+Train:          Batch: 70       Loss: 0.4073    Accuracy: 0.8644
+Validation:             Batch: 15       Loss: 0.4209    Accuracy: 0.8789
+Set learning rate to 1.8e-07. Scheduler: exponential decay.
+
+=== Epoch 45 ===
+Train:          Batch: 70       Loss: 0.4118    Accuracy: 0.8735
+Validation:             Batch: 15       Loss: 0.4279    Accuracy: 0.8746
+Set learning rate to 1.5e-07. Scheduler: exponential decay.
+
+=== Epoch 46 ===
+Train:          Batch: 70       Loss: 0.4048    Accuracy: 0.8667
+Validation:             Batch: 15       Loss: 0.4346    Accuracy: 0.8817
+Set learning rate to 1.2e-07. Scheduler: exponential decay.
+
+=== Epoch 47 ===
+Train:          Batch: 70       Loss: 0.4059    Accuracy: 0.8751
+Validation:             Batch: 15       Loss: 0.4185    Accuracy: 0.8788
+Set learning rate to 1e-07. Scheduler: exponential decay.
+
+=== Epoch 48 ===
+Train:          Batch: 70       Loss: 0.3981    Accuracy: 0.8674
+Validation:             Batch: 15       Loss: 0.4287    Accuracy: 0.8744
+Set learning rate to 8e-08. Scheduler: exponential decay.
+
+=== Epoch 49 ===
+Train:          Batch: 70       Loss: 0.4224    Accuracy: 0.8634
+Validation:             Batch: 15       Loss: 0.4212    Accuracy: 0.8833
+Set learning rate to 7e-08. Scheduler: exponential decay.
+
+=== Epoch 50 ===
+Train:          Batch: 70       Loss: 0.4171    Accuracy: 0.8619
+Validation:             Batch: 15       Loss: 0.4257    Accuracy: 0.8748
+Set learning rate to 6e-08. Scheduler: exponential decay.
