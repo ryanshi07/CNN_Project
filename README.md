@@ -7,6 +7,10 @@ I structured this code in a way that it can be adapted for other datasets and cu
 In this project, I experimented with the different kernel sizes in the first convolutional layer. My goal was to explore the effect of three different kernel sizes (3x3, 5x5, 7x7) in the first convulutional layer on image classification.  
 The image classification task I explored was classifying Formula One cars, belonging to six teams.  
 
+Due to the large size of the ResNet50 transfer learning model, I was not able to include a saved version of the model in my GitHub repository. 
+
+I have also included a file for testing saved models, `load_model.py`. 
+
 ## The Dataset 
 
 The dataset I used can be found [here](https://www.kaggle.com/datasets/vesuvius13/formula-one-cars).

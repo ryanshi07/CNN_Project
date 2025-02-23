@@ -2,21 +2,34 @@ import torch
 from utils import *
 import torchvision.transforms.v2 as transforms # type: ignore 
 import os 
-import numpy as np
 from PIL import Image
-
-# Test set directory 
-IMAGE_DIR = "C:\\Users\\ryany\\Desktop\\custom_cnn-main\\test_set"
+import argparse
 
 # Image size 
 IMAGE_SIZE = 256
+
+# Class labels (alphabetical)
+CLASS_LABELS = ["ferrari", "mclaren", "mercedes", "redBull", "renault", "williams"]
+
+
+# Set up command line argument parser 
+ap = argparse.ArgumentParser()
+
+# Adding arguments 
+ap.add_argument("-d", "--test_set", required = True, help = "Path to test set directory")
+
+# Store command line arguments in variables 
+args = vars(ap.parse_args())
+image_dir = str(args['model'])
 
 # Load model, set to evaluation mode 
 model = torch.load("model.pth")
 model.eval() 
 
+
 # Setting default device 
 default_device = set_device()
+
 
 # Resizing transformation 
 transform = transforms.Compose([
@@ -25,10 +38,9 @@ transform = transforms.Compose([
             transforms.ToDtype(torch.float32, scale = True), # Changes data type of tensor and normalizes pixel values 
         ])
 
-CLASS_LABELS = ["ferrari", "mclaren", "mercedes", "redBull", "renault", "williams"]
 
-for img_name in os.listdir(IMAGE_DIR): 
-    img_path = os.path.join(IMAGE_DIR, img_name)
+for img_name in os.listdir(image_dir): 
+    img_path = os.path.join(image_dir, img_name)
 
     if not img_name.lower().endswith(('jpg')): 
         continue
